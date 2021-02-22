@@ -1,5 +1,12 @@
 # basic-knowledge-notes
 
+### 2021-02-22
+
+- [x] [什么是跨域，什么情况下会发生跨域请求？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-22/cross-domain.md)
+- [x] [简述常见的 HTTP 状态码的含义](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-22/http-status-code.md)
+
+
+
 ### 2021-02-21
 
 - [x] [从输入 URL 到展现页面的全过程](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-21/The-whole-process-of-visiting-URL.md)
