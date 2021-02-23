@@ -1,5 +1,11 @@
 # basic-knowledge-notes
 
+### 2021-02-23
+
+- [x] [简述TCP滑动窗口以及重传机制](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-23/tcp-sliding-window.md)
+- [x] [什么是TCP粘包与拆包](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-23/tcp-sticky-packet.md)
+- [x] [TCP和UDP的区别](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-23/tcp-udp.md)
+
 ### 2021-02-22
 
 - [x] [什么是跨域，什么情况下会发生跨域请求？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-22/cross-domain.md)
