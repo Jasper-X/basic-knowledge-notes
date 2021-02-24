@@ -1,5 +1,11 @@
 # basic-knowledge-notes
 
+### 2021-02-24
+
+- [x] [DNS 查询服务器的基本流程是什么？DNS 劫持是什么？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-24/dns.md)
+- [x] [简述对称与非对称加密的概念](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-24/Symmetric-encryption-and-asymmetric-encryption.md)
+
+
 ### 2021-02-23
 
 - [x] [简述TCP滑动窗口以及重传机制](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-23/tcp-sliding-window.md)
