@@ -1,5 +1,11 @@
 # basic-knowledge-notes
 
+### 2021-02-25
+
+- [x] [简述 OSI 七层模型](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-25/osi.md)
+- [x] [简述 JWT 的原理和校验机制](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-25/jwt.md)
+
+
 ### 2021-02-24
 
 - [x] [DNS 查询服务器的基本流程是什么？DNS 劫持是什么？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-24/dns.md)
