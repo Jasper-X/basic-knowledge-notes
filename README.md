@@ -1,5 +1,14 @@
 # basic-knowledge-notes
 
+### 2021-02-26
+
+- [x] [Cookie 和 Session 的关系和区别是什么？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-26/cookie-session-diff.md)
+- [x] [HTTP 的方法有哪些？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-26/http-method.md)
+- [x] [为什么需要序列化？有什么序列化的方式？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-26/serialization.md)
+
+
+
+
 ### 2021-02-25
 
 - [x] [简述 OSI 七层模型](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-02-25/osi.md)
