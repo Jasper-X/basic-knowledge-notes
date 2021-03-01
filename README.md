@@ -2,7 +2,7 @@
 
 ### 2021-03-01
 
-- [x] [数据库的事务隔离级别有哪些？各有哪些优缺点？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-01/mysql-mvcc.md)
+- [x] [MySQL MVCC 实现原理](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-01/mysql-mvcc.md)
 
 ### 2021-02-28
 
