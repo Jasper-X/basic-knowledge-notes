@@ -1,5 +1,10 @@
 # basic-knowledge-notes
 
+### 2021-03-02
+
+- [x] [简述 Redis 中常见类型的底层数据结构](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-02/redis-basic-data-structure.md)
+
+
 ### 2021-03-01
 
 - [x] [MySQL MVCC 实现原理](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-01/mysql-mvcc.md)
