@@ -1,5 +1,10 @@
 # basic-knowledge-notes
 
+### 2021-03-03
+
+- [x] [Redis 如何实现分布式锁？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-03/Redis-distributed-lock.md)
+
+
 ### 2021-03-02
 
 - [x] [简述 Redis 中常见类型的底层数据结构](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-02/redis-basic-data-structure.md)
