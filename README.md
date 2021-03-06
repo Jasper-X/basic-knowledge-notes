@@ -1,5 +1,11 @@
 # basic-knowledge-notes
 
+
+
+### 2021-03-06
+
+- [x] [简述 Redis 持久化中 rdb 以及 aof 方案的优缺点？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-06/redis-rdb-aof.md)
+
 ### 2021-03-03
 
 - [x] [Redis 如何实现分布式锁？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-03/Redis-distributed-lock.md)

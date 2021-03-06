@@ -57,6 +57,10 @@ AOF文件随着时间的推移会越来越大，需要定期对其进行"瘦身"
 
 
 
+## Reference
+
+https://segmentfault.com/a/1190000013958342
+
 
 
 
