@@ -1,5 +1,9 @@
 # basic-knowledge-notes
 
+### 2021-03-08
+
+- [x] [简述 Redis 如何防止缓存雪崩和缓存击穿](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-10/redis-cache.md)
+
 
 ### 2021-03-08
 - [x] [简述 Redis 的哨兵机制](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-08/redis-sentinel.md)
