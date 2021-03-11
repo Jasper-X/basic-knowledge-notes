@@ -1,6 +1,13 @@
 # basic-knowledge-notes
 
-### 2021-03-08
+
+### 2021-03-11
+
+- [x] [简述乐观锁以及悲观锁的区别以及使用场景](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-11/Optimistic-lock-Pessimistic-lock.md)
+- [x] [简述 Redis 的过期机制和内存淘汰策略](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-11/redis-expire.md)
+
+
+### 2021-03-10
 
 - [x] [简述 Redis 如何防止缓存雪崩和缓存击穿](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-10/redis-cache.md)
 
