@@ -1,10 +1,12 @@
 # basic-knowledge-notes
 
+### 2021-03-13
+
+[什么情况下会发生死锁，如何解决死锁？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-13/deadlock.md)
+
 ### 2021-03-12
 
 [数据库有哪些常见索引？数据库设计的范式是什么？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-12/db-index.md)
-
-
 
 
 ### 2021-03-11
