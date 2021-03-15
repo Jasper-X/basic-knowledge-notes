@@ -1,5 +1,13 @@
 # basic-knowledge-notes
 
+### 2021-03-15
+
+[MySQL 中 varchar 和 char 的区别是什么？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-15/mysql-varchar-char.md)
+
+[简述脏读和幻读的发生场景，InnoDB 是如何解决幻读的？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-15/Dirty-reading-and-phantom-reading.md)
+
+[简述数据库中的 ACID 分别是什么？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-15/db-acid.md)
+
 ### 2021-03-13
 
 [什么情况下会发生死锁，如何解决死锁？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-13/deadlock.md)
