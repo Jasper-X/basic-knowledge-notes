@@ -1,20 +1,23 @@
 # basic-knowledge-notes
 
+### 2021-03-16
+
+- [x] [并发事务会引发哪些问题？如何解决？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-16/concurrent-transaction-problem.md)
+
+
 ### 2021-03-15
 
-[MySQL 中 varchar 和 char 的区别是什么？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-15/mysql-varchar-char.md)
-
-[简述脏读和幻读的发生场景，InnoDB 是如何解决幻读的？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-15/Dirty-reading-and-phantom-reading.md)
-
-[简述数据库中的 ACID 分别是什么？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-15/db-acid.md)
+- [x] [MySQL 中 varchar 和 char 的区别是什么？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-15/mysql-varchar-char.md)
+- [x] [简述脏读和幻读的发生场景，InnoDB 是如何解决幻读的？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-15/Dirty-reading-and-phantom-reading.md)
+- [x] [简述数据库中的 ACID 分别是什么？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-15/db-acid.md)
 
 ### 2021-03-13
 
-[什么情况下会发生死锁，如何解决死锁？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-13/deadlock.md)
+- [x] [什么情况下会发生死锁，如何解决死锁？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-13/deadlock.md)
 
 ### 2021-03-12
 
-[数据库有哪些常见索引？数据库设计的范式是什么？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-12/db-index.md)
+- [x] [数据库有哪些常见索引？数据库设计的范式是什么？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-12/db-index.md)
 
 
 ### 2021-03-11
