@@ -12,4 +12,4 @@
 
 数据不可见时，会根据undo log找到可见数据。
 
-InnoDB 就是利用 undo log 和 trx_id 的配合，实现了事务启动瞬间”秒级创建快照“的能力。
+InnoDB 就是利用 undo log 和 trx_id 的配合，实现了事务启动瞬间"秒级创建快照"的能力。

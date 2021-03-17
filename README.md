@@ -1,5 +1,9 @@
 # basic-knowledge-notes
 
+### 2021-03-17
+
+- [x] [简述 MySQL 三种日志的使用场景](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-17/mysql-log.md)
+
 ### 2021-03-16
 
 - [x] [并发事务会引发哪些问题？如何解决？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-16/concurrent-transaction-problem.md)
