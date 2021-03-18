@@ -1,5 +1,9 @@
 # basic-knowledge-notes
 
+### 2021-03-18
+
+- [x] [MySQL 中 join 与 left join 的区别是什么？](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-18/join-leftjoin.md)
+
 ### 2021-03-17
 
 - [x] [简述 MySQL 三种日志的使用场景](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-17/mysql-log.md)
