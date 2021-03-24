@@ -1,5 +1,9 @@
 # basic-knowledge-notes
 
+### GMP 及该模型好处
+- [x] [进程、线程和协程之间的区别](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-24/gmp.md)
+
+
 ### 2021-03-23
 
 - [x] [自旋锁与互斥锁的使用场景](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-22/Spin-locks-and-mutex-locks.md)
