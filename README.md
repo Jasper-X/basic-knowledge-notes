@@ -1,7 +1,7 @@
 # basic-knowledge-notes
 
-### GMP 及该模型好处
-- [x] [进程、线程和协程之间的区别](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-24/gmp.md)
+### 2021-03-24
+- [x] [GMP 及该模型好处](https://github.com/zaynme/basic-knowledge-notes/blob/main/2021-03-24/gmp.md)
 
 
 ### 2021-03-23
